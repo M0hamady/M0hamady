@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mohammedy 👋
 
 I'm a passionate Full Stack Developer with expertise in building robust web applications. I have experience working with a wide range of technologies, including:
 
