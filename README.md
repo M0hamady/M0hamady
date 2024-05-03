@@ -3,9 +3,9 @@
 I'm a passionate Full Stack Developer with expertise in building robust web applications. I have experience working with a wide range of technologies, including:
 
 - Frontend: React.js, TypeScript, HTML, CSS, and AJAX.
-- Backend: Python, Java, Django, and JavaFX.
+- Backend: Python, Django, and  FX.
 - Database: SQL, MySQL, MongoDB.
-- Other: 3D modeling, data analysis with pandas, and JavaScript.
+- Other: 3D modeling, data analysis with pandas, and  Script.
 
 ## Skills 💻
 
@@ -13,11 +13,11 @@ Here are some key skills that I bring to the table:
 
 - **Frontend Development**: I am proficient in building interactive and responsive user interfaces using React.js, TypeScript, HTML, CSS, and AJAX.
 
-- **Backend Development**: I have experience in developing scalable and efficient backend systems using Python, Java, and Django.
+- **Backend Development**: I have experience in developing scalable and efficient backend systems using Python, and Django.
 
 - **Database Management**: I am skilled in working with various databases, including SQL, MySQL, and MongoDB, for efficient data storage and retrieval.
 
-- **JavaFX and 3D**: I have hands-on experience in creating rich graphical user interfaces and working with 3D modeling in JavaFX.
+- ** FX and 3D**: I have hands-on experience in creating rich graphical user interfaces and working with 3D modeling in  FX.
 
 - **Data Analysis**: With expertise in Python and the pandas library, I can perform data analysis tasks, extract insights, and visualize data effectively.
 
