@@ -1,39 +1,46 @@
-# Hi there , I'm Mohammedy!
+# Hi there, I'm Mohammedy! 👋
 
-I'm a full-stack developer who ❤️ building awesome web applications.  I've got experience with a ton of cool tech, like:
+I'm a passionate Full Stack Developer with expertise in building robust web applications. Here's a bit about me:
 
-Frontend ️:  React.js , TypeScript ️, HTML5 , CSS3 , and AJAX ⚡️
+## Skills 💻
 
-Backend ⚙️:  Python , Django , and FX
+- **Frontend Development**:
+  - Proficient in building interactive and responsive user interfaces using:
+    - React.js
+    - TypeScript
+    - HTML
+    - CSS
+    - AJAX
 
-Database :  SQL , MySQL , and MongoDB
+- **Backend Development**:
+  - Experience in developing scalable and efficient backend systems using:
+    - Python
+    - Django
 
-Other ✨:  3D modeling ‍, data analysis with pandas , and JavaScript
+- **Database Management**:
+  - Skilled in working with various databases, including:
+    - SQL
+    - MySQL
+    - MongoDB
 
-Skills
-Here's what I bring to the table:
+- **FX and 3D**:
+  - Hands-on experience in creating rich graphical user interfaces and working with 3D modeling in FX.
 
-- Frontend Development: I can build interactive and responsive UIs with React.js, TypeScript, HTML5, CSS3, and AJAX.
+- **Data Analysis**:
+  - Expertise in Python and the pandas library for data analysis tasks.
 
-- Backend Development: I can develop scalable and efficient backend systems using Python and Django.
+## Notable Projects 🚀
 
-- Database Management:  I'm skilled at working with various databases like SQL, MySQL, and MongoDB to store and retrieve your data
+1. **safaria.travel**:
+   - A travel booking platform that allows users to explore and book safari adventures around the world. 🌍🦁
 
-- FX and 3D:  I can create rich graphical user interfaces and work with 3D modeling for an amazing user experience.  ‍
+2. **support-construction.com**:
+   - A website dedicated to providing support and resources to the construction industry. 🏗️🔧
 
-- Data Analysis:  I can use Python and pandas to analyze data, extract insights, and create visualizations.
+3. **wesal.com**:
+   - The wesal.com domain is listed for sale on Dynadot's marketplace. If you're interested in acquiring this domain, you can click on the provided URL for more details and make an offer. 💻🌐
 
-Projects
-Here are some cool projects I've worked on:
+4. **koshFit.com**:
+   - An online fitness platform that offers personalized workout plans and nutrition guidance. Get those gains! 💪🏋️‍♂️
 
-safaria.travel: https://www.safaria.travel - A travel booking platform to explore and book incredible safaris around the world!
-
-Support Construction ️: https://www.support-construction.com - A website with resources to support the construction industry! ️
-
-wesal.com (For Sale!): https://www.dynadot.com/forsale/wesal.com?drefid=2071 - This domain could be yours!
-
-koshFit.com: https://www.koshFit.com -  An online fitness platform with personalized workout plans and nutrition guidance to help you get fit!
-
-Feel free to reach out if you have any questions or want to collaborate!
-
-Happy coding!
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project. Happy coding! 🚀👨‍💻
